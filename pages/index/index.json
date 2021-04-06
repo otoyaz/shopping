@@ -1,0 +1,6 @@
+{
+    "usingComponents": {
+        "SearchInput": "../../components/search/search"
+    },
+    "navigationBarTitleText": "潮牌首页"
+}
